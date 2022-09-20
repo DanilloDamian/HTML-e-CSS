@@ -1,5 +1,7 @@
 <strong>This project was carried out during a course on the Alura platform</strong>
 
+https://danillodamian.github.io/HTML-e-CSS/
+
 I did the header with user interactivity.
 
 <img height="360em" src="https://github.com/DanilloDamian/HTML-e-CSS/blob/main/Content/img/Screenshot_1.png"/>
